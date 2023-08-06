@@ -1,0 +1,5 @@
+/* Hide the login elements for Player 2 by default */
+.Player2,
+.enterGamePlayer2 {
+    display: none;
+}
