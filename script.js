@@ -39,3 +39,7 @@ enterGameBtn.addEventListener('click', function(event) {
     sessionStorage.setItem('playerName', playerName);
     sessionStorage.setItem('player1LoggedIn', 'true');
 });
+
+
+console.log(Player1Input);
+console.log(Player2Input);
